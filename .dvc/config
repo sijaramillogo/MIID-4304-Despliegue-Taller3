@@ -1,0 +1,6 @@
+[core]
+    remote = aws-remote
+['remote "fuentelical"']
+    url = /tmp/dvcstore
+['remote "aws-remote"']
+    url = s3://simon-dvcstore
